@@ -1,0 +1,3 @@
+[submodule "projects/node-labs"]
+	path = projects/node-labs
+	url = git@github.com:titaniper/node-labs.git
